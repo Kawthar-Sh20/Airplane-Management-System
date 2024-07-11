@@ -1,0 +1,6 @@
+[submodule "Airplane-Frontend"]
+	path = Airplane-Frontend
+	url = https://github.com/Kawthar-Sh20/Airplane-Frontend.git
+[submodule "Airplane-Backend"]
+	path = Airplane-Backend
+	url = https://github.com/Kawthar-Sh20/Airplane-Backend.git
